@@ -1,2 +1,0 @@
-# semesteraufgabe
-ikt2021
